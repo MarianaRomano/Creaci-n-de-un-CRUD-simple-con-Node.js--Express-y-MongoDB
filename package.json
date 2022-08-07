@@ -1,0 +1,23 @@
+{
+  "name": "tarea-node",
+  "version": "1.0.0",
+  "description": "Proyecto para presentar en Academia Numen",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "marianaromano23@hotmail.com"
+  },
+  "author": "Mariana A Romano",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongodb": "^4.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
